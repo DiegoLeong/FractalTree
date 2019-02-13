@@ -29,10 +29,6 @@ public void drawBranches(int x,int y, double branchLength, double angle)
 		drawBranches(endX1,endY1,branchLength*.75,angle-1);
 		drawBranches(endX2,endY2,branchLength*.75,angle+1);
 	}
-	else
-	{
-
-	}
 
 
 } 
